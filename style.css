@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-h1, h2, h3, p, li {
+h1, h2, h3, p, li, a {
     font-family: Ubuntu, sans-serif !important;
 }
 
@@ -217,4 +217,18 @@ h1, h2, h3, p, li {
         }
     }
 
+}
+
+
+.footer {
+    background-color: #333333;
+    height: 150px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 40px;
+
+    .autor {
+        color: #fff;
+    }
 }
