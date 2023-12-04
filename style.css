@@ -53,7 +53,7 @@ h1, h2, h3, p, li, a {
     .title {
         margin-top: 70px;
         text-align: center;
-        font-size: 36px;        
+        font-size: 36px;                
     }
 
     .subtitle {
@@ -77,6 +77,7 @@ h1, h2, h3, p, li, a {
             .card-title {
                 color: #93D6d0;
                 font-size: 20px;
+                text-transform: uppercase;
             }
 
             .card-subtitle {
