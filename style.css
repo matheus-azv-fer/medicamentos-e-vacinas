@@ -225,11 +225,11 @@ h1, h2, h3, p, li, a {
 .footer {
     background-color: #333333;
     height: 150px;
+    display: flex;
     align-items: flex-end;
     justify-content: center;
     padding: 40px;
-    border: none;
-
+    
     .autor {
         color: #fff;
     }
